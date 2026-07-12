@@ -1,0 +1,15 @@
+{
+	"name": "aa-adf-deproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df4bdb1d-c6d9-43e1-bc1e-429fff178d6f",
+		"tenantId": "884ee6e4-3b7d-4b11-a0d6-27c0dba62d9d"
+	}
+}
