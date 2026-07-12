@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "aa-adf-deproject"
+		},
+		"ls_AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"ls_AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0712-160137-vec7jp24"
+		},
+		"ls_adls_bronze_properties_typeProperties_url": {
+			"value": "https://aastdeproject.dfs.core.windows.net/"
+		},
+		"ls_adls_source_properties_typeProperties_url": {
+			"value": "https://aastdeproject.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
